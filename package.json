@@ -1,0 +1,28 @@
+{
+  "name": "basic-class",
+  "version": "0.0.1",
+  "description": "Very basic class implementation, based on backbone with a few additions",
+  "main": "class.js",
+  "scripts": {
+    "test": "mocha class.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mbriggs/basic-class.git"
+  },
+  "keywords": [
+    "class"
+  ],
+  "author": "Matt Briggs <matt@mattbriggs.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbriggs/basic-class/issues"
+  },
+  "homepage": "https://github.com/mbriggs/basic-class",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1",
+    "underscore": "^1.6.0",
+    "sinon": "^1.10.3"
+  }
+}
